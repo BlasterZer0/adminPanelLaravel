@@ -19,7 +19,7 @@
             <!-- Sidebar  -->
             <nav id="sidebar">
                 <div class="sidebar-header text-center">
-                    <img src="{{ URL::asset('../resources/img/logo-427x436.png') }}" class="col-md-3">
+                    <img src="{{ URL::asset('../resources/img/logo-427x436.png') }}" class="col-md-3" style="border-radius: 50%">
                     <h3> Company </h3>
                 </div>
     
